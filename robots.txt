@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ivocarrionsg.github.io/snippets-uwvw2q/sitemap.xml
